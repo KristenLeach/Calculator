@@ -4,7 +4,7 @@ height: 375px;
 background-color: #60bc63;
 }
 
-th, td {
+td {
     width: 75px;
     height: 75px;
     padding: 0px, 0px, 0px, 0px;
@@ -12,12 +12,6 @@ th, td {
     font-family: Arial, Helvetica, sans-serif;
     color: #eaf9eb;
     font-size: 30px;
-}
-
-th {
-    text-decoration: none;
-    border: 2px solid #addbae;
-    border-collapse: collapse;
 }
 
 .eq {
