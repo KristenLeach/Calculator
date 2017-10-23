@@ -1,0 +1,32 @@
+table {
+width: 300px;
+height: 375px;
+background-color: #60bc63;
+}
+
+th, td {
+    width: 75px;
+    height: 75px;
+    padding: 0px, 0px, 0px, 0px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #eaf9eb;
+    font-size: 30px;
+}
+
+th {
+    text-decoration: none;
+    border: 2px solid #addbae;
+    border-collapse: collapse;
+}
+
+.eq {
+    background-color: #8ccc8e;
+    color: #253f26;
+    font-size: 20px;
+}
+
+table, td {
+    border: 2px solid #addbae;
+    border-collapse: collapse;
+}
